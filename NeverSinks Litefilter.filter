@@ -233,6 +233,18 @@ SetFontSize 40
 # Salvagable Items
 #--------------------------
 
+# 1 Socket Workaround
+Show
+Sockets == S
+SetBorderColor 30 255 160 255
+SetFontSize 35
+
+# 2 Socket Workaround
+Show
+Sockets == SS
+SetBorderColor 30 255 160 255
+SetFontSize 35
+
 # Not working!
 Show
 Sockets > 0

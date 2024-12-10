@@ -235,7 +235,7 @@ SetFontSize 40
 
 # Not working!
 Show
-Sockets > 0
+Sockets S
 Rarity Normal
 SetBorderColor 200 200 200
 SetFontSize 35
@@ -248,7 +248,7 @@ SetFontSize 35
 
 # Not working!
 Show
-Sockets > 0
+Sockets S
 Rarity Magic
 SetBorderColor 0 0 200
 SetFontSize 35

@@ -1,0 +1,4 @@
+# Linguist Docs: https://github.com/github-linguist/linguist/blob/main/docs/overrides.md#using-gitattributes
+
+# Set filter files to INI (coloring) in PRs
+*.filter linguist-language=INI
